@@ -1,0 +1,19 @@
+{
+  "title": "Sync My Bookmarks",
+  "name": "syncmarks",
+  "version": "0.0.1",
+  "description": "Add on for bookmarks synchronizing.",
+  "main": "index.js",
+  "author": "Victor",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+    "menuitem": "0.0.5"
+  }
+}
